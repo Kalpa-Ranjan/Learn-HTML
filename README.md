@@ -34,28 +34,28 @@
 ---
 
 > Basics
-## HTML Document Structure
-## HTML Tags and Elements
-## HTML Headings
-## HTML Paragraphs
-## HTML Comments
-## Text formatting in HTML
-## Links and Anchors
-## Images in HTML
-## Void Elements in HTML
-## Lists in HTML
-## Tables in HTML
+## 1. HTML Document Structure
+## 2. HTML Tags and Elements
+## 3. HTML Headings
+## 4. HTML Paragraphs
+## 5. HTML Comments
+## 6. Text formatting in HTML
+## 7. Links and Anchors
+## 8. Images in HTML
+## 9. Void Elements in HTML
+## 10. Lists in HTML
+## 11. Tables in HTML
 
 > Advanced
-## HTML MAP & Area Elements
-## HTML IFRAMES
-## HTML Picture Tag
-## HTML Figure Tag
-## HTML Audio Tag
-## HTML Video Tag
-## Forms and Input Elements
-## HTML Semantic Elements
-## HTML Meta Tags
-## HTML SEO
-## Website Ranking Score
-## Host Website Live for Free & Paid
+## 12. HTML MAP & Area Elements
+## 13. HTML IFRAMES
+## 14. HTML Picture Tag
+## 15. HTML Figure Tag
+## 16. HTML Audio Tag
+## 17. HTML Video Tag
+## 18. Forms and Input Elements
+## 19. HTML Semantic Elements
+## 20. HTML Meta Tags
+## 21. HTML SEO
+## 22. Website Ranking Score
+## 23. Host Website Live for Free & Paid
