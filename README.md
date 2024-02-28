@@ -68,6 +68,7 @@
 - h6 -> 10px to 16px
 
 > How many levels of heading present in html?
+
 Ans: 6
 
 > What is the default?
@@ -76,6 +77,7 @@ Ans: It will create confusion for users and search engine.
 > What happens if you skip the heading levels, such as going from h1 to h3?
 
 > How many h1 tags can be used in single page?
+
 Ans: 1
 
 ## 4. HTML Paragraphs
