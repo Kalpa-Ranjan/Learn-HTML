@@ -199,6 +199,7 @@ Inline style is the one opf way to style html
 ### anchor tag
 
 ```<a href="https://www.buymeacoffee.com/DRKRB">visit</a>```
+<br>
 <a href="https://www.buymeacoffee.com/DRKRB">Click on it</a>
 
 *anchor tag is used to define a hyperlink, which is used to link from one page to another page*
@@ -207,6 +208,7 @@ Inline style is the one opf way to style html
 
 
 ```<a href="https://www.buymeacoffee.com/DRKRB">Click on it</a>```
+<br>
 <a href="https://www.buymeacoffee.com/DRKRB" target="_blanck">Click on it</a>
 
 *target="_blanck" is used to open the link in new tab*
