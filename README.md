@@ -209,7 +209,7 @@ Inline style is the one opf way to style html
 
 ```<a href="https://www.buymeacoffee.com/DRKRB">Click on it</a>```
 <br>
-<a href="https://www.buymeacoffee.com/DRKRB" target="_blanck">Click on it</a>
+<a href="https://www.buymeacoffee.com/DRKRB" target="_blank">Click on it</a>
 
 *target="_blanck" is used to open the link in new tab*
 
@@ -217,7 +217,7 @@ Inline style is the one opf way to style html
 
 ``` <a title="description for the abbreviation/acronym when you mouse over the element." href="https://www.buymeacoffee.com/DRKRB" target="_blanck">Click on it</a> ```
 <br>
-<a title="description for the abbreviation/acronym when you mouse over the element." href="https://www.buymeacoffee.com/DRKRB" target="_blanck">Click on it</a>
+<a title="description for the abbreviation/acronym when you mouse over the element." href="https://www.buymeacoffee.com/DRKRB" target="_blank">Click on it</a>
 
 *Title is used to show the description for the abbreviation/acronym when you mouse over the element.*  
 
