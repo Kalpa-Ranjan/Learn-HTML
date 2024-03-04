@@ -81,10 +81,87 @@ Ans: 1
 ## 4. HTML Paragraphs
 ```
 <p> It represents paragraph </p>
+
+<!-- <p> is a paragraph tag -->
 ```
+> Can we nest other html elements inside p tag?
+
+Ans: No as p is an block label element, so we can't use other block label element inside a block label element. But we can use inline element such as strong in p tag.
 ## 5. HTML Comments
+```
+<!--  -->
+```
 ## 6. Text formatting in HTML
+```
+<p>
+<hr/>
+<p>
+```
+> Pre tag
+
+<pre>
+
+To,
+
+Tapas Patra
+Priciple, CET
+
+Dear Sir,
+Myself Kalpa  Behera availing sick leave for today and tomorrow.
+
+Yours Faithfully,
+Kalpa Behera
+Hyderabad
+05/03/2024
+
+</pre>
+
+*Inside pre tag the text format never change.*
+
+> KBD tag
+
+to save we use <kbd>ctrl</kbd> + <kbd>s</kbd>
+
+*KBD tag use to define keboard shortcut(kbd)*
+
+> abbr tag
+
+<abbr title="World Health Organisation">WHO</abbr> is an international orghanisation.
+
+*abbr tag used for shortcuts*
+
+> Mark tag
+
+Heighlight <mark>this text</mark>  please.
+
+*mark tag heighlight the text*
+
+>small tag
+
+This is a <small>small font sizew</small> text.
+
+*This tag is used to make text size small in a sentence.*
+
+> del tag
+
+Apple is <del>pink</del> green in color.
+
+*Use the <del> tag to define deleted text*
+
+> strike through
+
+<s>My car is Blue</s>
+
+*Use the s tag to mark up text that is no longer correct*
+
+---
+
+
+
+
+
 ## 7. Links and Anchors
+
 ## 8. Images in HTML
 ## 9. Void Elements in HTML
 ## 10. Lists in HTML
