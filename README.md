@@ -97,6 +97,7 @@ Ans: No as p is an block label element, so we can't use other block label elemen
 <hr/>
 <p>
 ```
+---
 > Pre tag
 
 <pre>
@@ -118,11 +119,15 @@ Hyderabad
 
 *Inside pre tag the text format never change.*
 
+---
+
 > KBD tag
 
 to save we use <kbd>ctrl</kbd> + <kbd>s</kbd>
 
 *KBD tag use to define keboard shortcut(kbd)*
+
+---
 
 > abbr tag
 
@@ -130,11 +135,15 @@ to save we use <kbd>ctrl</kbd> + <kbd>s</kbd>
 
 *abbr tag used for shortcuts*
 
+---
+
 > Mark tag
 
 Heighlight <mark>this text</mark>  please.
 
 *mark tag heighlight the text*
+
+---
 
 >small tag
 
@@ -142,13 +151,19 @@ This is a <small>small font sizew</small> text.
 
 *This tag is used to make text size small in a sentence.*
 
+---
+
 > del tag
 
 Apple is <del>pink</del> green in color.
 
 *Use the <del> tag to define deleted text*
 
+---
+
 > strike through
+
+`<s>My car is Blue</s>`
 
 <s>My car is Blue</s>
 
@@ -156,11 +171,55 @@ Apple is <del>pink</del> green in color.
 
 ---
 
+> Inline style
+
+```html
+<p style="color:red">
+Inline style is the one opf way to style html
+</p>
+
+```
+<p style="color:red">
+Inline style is the one opf way to style html
+</p>
+
+---
+
+> Internal style
+
+*If style keyword is inside head tag, it will called internal tag*
+
+---
 
 
 
 
 ## 7. Links and Anchors
+
+### anchor tag
+
+```<a href="https://www.buymeacoffee.com/DRKRB">visit</a>```
+<a href="https://www.buymeacoffee.com/DRKRB">Click on it</a>
+
+*anchor tag is used to define a hyperlink, which is used to link from one page to another page*
+
+>target
+
+
+```<a href="https://www.buymeacoffee.com/DRKRB">Click on it</a>```
+<a href="https://www.buymeacoffee.com/DRKRB" target="_blanck">Click on it</a>
+
+*target="_blanck" is used to open the link in new tab*
+
+>title
+
+``` <a title="description for the abbreviation/acronym when you mouse over the element." href="https://www.buymeacoffee.com/DRKRB" target="_blanck">Click on it</a> ```
+
+<a title="description for the abbreviation/acronym when you mouse over the element." href="https://www.buymeacoffee.com/DRKRB" target="_blanck">Click on it</a>
+
+*Title is used to show the description for the abbreviation/acronym when you mouse over the element.*  
+
+
 
 ## 8. Images in HTML
 ## 9. Void Elements in HTML
