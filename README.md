@@ -214,7 +214,7 @@ Inline style is the one opf way to style html
 >title
 
 ``` <a title="description for the abbreviation/acronym when you mouse over the element." href="https://www.buymeacoffee.com/DRKRB" target="_blanck">Click on it</a> ```
-
+<br>
 <a title="description for the abbreviation/acronym when you mouse over the element." href="https://www.buymeacoffee.com/DRKRB" target="_blanck">Click on it</a>
 
 *Title is used to show the description for the abbreviation/acronym when you mouse over the element.*  
